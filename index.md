@@ -1,2 +1,3 @@
 ## Welcome to Mopaiv+
-`coming soon`
+`logo placeholder`
+This is a Chrome Extension for [Mopaiv](https://admin.mopaiv.com).
